@@ -51,7 +51,7 @@ OpenAI API • LangChain • RAG • Embeddings • Vector DBs
 ## 📬 Contact
 
 If you want your **website**, **product**, or **content** to stand out in the AI Era, feel free to reach out.  
-Email → **sinankanmaz@outlook.com.tr**
+Email → **info@sinankanmaz.com**
 
 ---
 
